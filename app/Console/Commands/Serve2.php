@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Console\Commands;
+namespace Parserbin\Console\Commands;
 
 use Artisan;
 use Illuminate\Console\Command;

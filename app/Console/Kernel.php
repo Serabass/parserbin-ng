@@ -1,8 +1,8 @@
 <?php
 
-namespace App\Console;
+namespace Parserbin\Console;
 
-use App\Console\Commands\Serve2;
+use Parserbin\Console\Commands\Serve2;
 use Illuminate\Console\Scheduling\Schedule;
 use Illuminate\Foundation\Console\Kernel as ConsoleKernel;
 
