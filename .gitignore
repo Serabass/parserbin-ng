@@ -1,0 +1,25 @@
+/node_modules
+/public/hot
+/public/storage
+/storage/*.key
+/vendor
+/.idea
+/.vagrant
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+.env
+
+# Angular build assets
+# maybe just /public/**
+public/*.bundle.js
+public/*.bundle.js.map
+public/*.bundle.css
+public/index.php
+public/3rdpartylicenses.txt
+
+.phpstorm.meta.php
+_ide_helper.php
+
+debug.log
